@@ -7,4 +7,4 @@ This github repository contains the data and code needed to reproduce the main r
 This code is written in python, which also requires numpy, matplotlib, scipy package and jupyter notebook. 
 
 # Results
-![Fugure 3](ul.pdf){width=65%}
+![Fugure 3](ul.jpg){width=65%}
